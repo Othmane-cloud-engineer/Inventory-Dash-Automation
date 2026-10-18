@@ -31,3 +31,11 @@ I plan to expand my skills in cloud platforms, Docker, Terraform, Kubernetes, an
 I will continue documenting my learning journey and building practical projects to demonstrate my technical skills.
 
 My long-term goal is to design, deploy, manage, and troubleshoot cloud infrastructure while following industry best practices.
+
+# Project Documentation
+
+For a detailed explanation of the project, including the
+Python code, Excel input data, execution steps, and results,
+see the full documentation below.
+
+[View Project Documentation (PDF)](Inventory_Automation_Project.pdf)
